@@ -1,4 +1,3 @@
-# 1st change for GutHub
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
